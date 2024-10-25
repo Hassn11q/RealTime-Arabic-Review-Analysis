@@ -11,7 +11,6 @@ This project performs sentiment analysis on Arabic reviews using a pipeline invo
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-- [File Structure](#file-structure)
 
 ---
 
@@ -74,8 +73,8 @@ This project aims to analyze Arabic user reviews by categorizing them as positiv
 ## Setup Instructions
 
 ### Prerequisites
-- Docker & Docker Compose
-- Python 3.x
+- Docker 
+- Python 3.9+
 - Kafka and PostgreSQL (via Docker)
 - Hugging Face Transformers
 
